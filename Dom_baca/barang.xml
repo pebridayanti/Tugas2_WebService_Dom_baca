@@ -1,0 +1,24 @@
+<barang>
+	<barang>
+		<kode>P10234</kode>
+		<satuan>Kg</satuan>
+		<harga>98000</harga>
+		<pts>Indah Jaya</pts>
+		<emails>pebridayanti@gmail.com</emails>
+		<kodewils>456</kodewils>
+		<ptt>Nusa Indah</ptt>
+		<emailt>pebridayantihasibuan@yahoo.com</emailt>
+		<kodewilt>401401</kodewilt>
+	</barang>
+	<barang>
+		<kode>S2340</kode>
+		<satuan>Kg</satuan>
+		<harga>7600</harga>
+		<pts>Indah Jaya</pts>
+		<emails>indahpelangi@gmail.com</emails>
+		<kodewils>7568</kodewils>
+		<ptt>Indah Pelangi</ptt>
+		<emailt>indahpelangi@yahoo.com</emailt>
+		<kodewilt>23</kodewilt>
+	</barang>
+</barang>
